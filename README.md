@@ -1,2 +1,2 @@
-# wpintense-rocket-stack-ubuntu18-wordpress
-This repo includes various config files for the WP Intense Rocket Stack and each of the elements installed with that stack.
+# rocket-stack-optimzed-for-PHP7.3
+I forked this to make it compatible with PHP 7.3.
