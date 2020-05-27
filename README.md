@@ -1,5 +1,5 @@
-# WP Rocket Stack updated for PHP7.3 FPM
-I forked this to make it compatible with PHP 7.3.
+# WP Rocket Stack updated for PHP7.4 FPM
+I forked this to make it compatible with PHP 7.4.
 
 ### We are going to show you how to use this
 
@@ -29,10 +29,10 @@ Login to your server via SSH and get root access.
 #### apt install software-properties-common
 #### add-apt-repository ppa:ondrej/php
 #### apt update
-#### apt install php7.3
+#### apt install php7.4
 #### apt purge apache2
 #### apt install nginx
-#### apt install tmux curl php7.3-fpm php7.3-curl php7.3-intl php7.3-cli php7.3-mysql php7.3-gd php7.3-imagick php7.3-recode php7.3-tidy php7.3-xmlrpc php7.3-mbstring php7.3-zip php7.3-xml unzip
+#### apt install tmux curl php7.4-fpm php7.4-curl php7.4-intl php7.4-cli php7.4-mysql php7.4-gd php7.4-imagick php7.4-recode php7.4-tidy php7.4-xmlrpc php7.4-mbstring php7.4-zip php7.4-xml unzip
 
 #### apt install redis-server
 #### apt install install fail2ban
