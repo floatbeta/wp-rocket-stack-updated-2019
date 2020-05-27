@@ -46,7 +46,7 @@ Edit /etc/redis/redis.conf and add the following 2 lines at the end:
 #### nano /etc/redis/redis.conf
 
 Scroll to the bottom of the file.
-Make adjustments to the value, example: VPS w/1GB of Ram insert maxmemory 100mb, 2BG of Ram insert 200mb...
+Make adjustments to the value, example: VPS w/1GB of Ram insert maxmemory 100mb, 2gb of Ram insert 200mb...
 
 #### maxmemory 100mb
 
