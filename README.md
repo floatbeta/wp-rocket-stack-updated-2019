@@ -21,6 +21,7 @@ Login to your server via SSH and get root access.
 #### reboot
 #### cd ~
 #### mkdir install
+#### cd install
 #### wget https://dev.mysql.com/get/mysql-apt-config_0.8.12-1_all.deb
 #### dpkg -i mysql-apt-config_0.8.12-1_all.deb
 #### apt update
@@ -32,7 +33,7 @@ Login to your server via SSH and get root access.
 #### apt install php7.4
 #### apt purge apache2
 #### apt install nginx
-#### apt install tmux curl php7.4-fpm php7.4-curl php7.4-intl php7.4-cli php7.4-mysql php7.4-gd php7.4-imagick php7.4-recode php7.4-tidy php7.4-xmlrpc php7.4-mbstring php7.4-zip php7.4-xml unzip
+#### apt install tmux curl php7.4-fpm php7.4-curl php7.4-intl php7.4-cli php7.4-mysql php7.4-gd php7.4-imagick php7.4-tidy php7.4-xmlrpc php7.4-mbstring php7.4-zip php7.4-xml unzip
 
 #### apt install redis-server
 #### apt install install fail2ban
