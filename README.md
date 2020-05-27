@@ -5,7 +5,7 @@ I forked this to make it compatible with PHP 7.4.
 
 1. You need root/ssh access to your server. IF YOU DO NOT HAVE THIS IT WILL NOT WORK!
 
-2. This works with Ubuntu 16.04 server to Ubuntu 18.10 server.
+2. This works with Ubuntu 16.04 server to Ubuntu 20.04 server.
 
 3. You should have at least 1 GB of ram available.
 
